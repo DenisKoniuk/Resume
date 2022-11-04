@@ -1,0 +1,214 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #ffff;
+}
+
+
+/* main_container */
+.main_cont {
+display: flex;
+flex-direction: row-reverse;
+width: 1200px;
+margin: 0 auto;
+border-radius: 19px;
+background: #ffff;
+box-shadow:  -14px 14px 28px #a2b0b4,
+             14px -14px 28px #dceef4;
+
+    
+}
+/* main */
+.main {
+    background-color: rgb(255, 255, 255);
+    border-radius: 0 20px 20px 0;
+    padding: 90px 90px 90px 90px;
+}
+
+/* name */
+
+
+/* title styles */
+.title {
+   
+    
+}
+.about_me {
+    
+}
+.about_head {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 55px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.about_title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 17px;
+    margin-bottom: 50px; 
+}
+.about_descriotion {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+.all_tittles {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+}
+/* project styles */
+.project {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 100px;
+    border-radius: 19px;
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffff41, #e6d737);
+    box-shadow:  5px 5px 10px #666018,
+                 -5px -5px 10px #ffff62;
+                 
+}   
+/* work_experience */
+.work_experience {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    border-radius: 19px;
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffff41, #e6d737);
+    box-shadow:  5px 5px 10px #666018,
+             -5px -5px 10px #ffff62;
+}
+/* company_1 */
+.company_1{
+
+}
+/* comapany_2 */
+.comapany_2 {
+
+}
+/* education */
+.education {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 60px;
+    border-radius: 19px;
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffff41, #e6d737);
+    box-shadow:  5px 5px 10px #666018,
+             -5px -5px 10px #ffff62;
+}
+
+
+/* sidebar */
+.aside {
+    background-color: #2d187d;
+    padding-top: 40px;
+    width: 400px;
+    border-radius: 20px 0 0 20px;
+}
+.photo {
+    width: 400px;
+    margin-bottom: 50px;
+}
+
+/* contacts */
+.contacts {
+padding: 10px;
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 50px;
+border-radius: 20px;
+background: linear-gradient(225deg, #241365, #1f1055);
+box-shadow:  -6px 6px 12px #170c40,
+             6px -6px 12px #2d187c;
+}
+.links {
+    margin-left: 20px;
+}
+.contact_title {
+    color: #ffff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.contact_info {
+    color: #acabb0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+.contact_link {
+    color: #acabb0;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px; 
+}
+
+/* tech_skills */
+.tech_skills {
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    background: linear-gradient(225deg, #241365, #1f1055);
+    box-shadow:  -6px 6px 12px #170c40,
+             6px -6px 12px #2d187c; 
+}
+.tech_style {  
+    padding: 0;
+    margin-left: 30px;
+}
+.skills_item {
+    color: #acabb0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px; 
+}
+.dot_element {
+color:#c63410;
+}
+
+/* soft_skills */
+.soft_skills {
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    background: linear-gradient(225deg, #241365, #1f1055);
+    box-shadow:  -6px 6px 12px #170c40,
+                 6px -6px 12px #2d187c;   
+}
+
+/* languages */
+.languages {
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    background: linear-gradient(225deg, #241365, #1f1055);
+    box-shadow:  -6px 6px 12px #170c40,
+                 6px -6px 12px #2d187c;
+}
