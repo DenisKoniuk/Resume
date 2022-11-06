@@ -55,6 +55,17 @@ box-shadow:  -14px 14px 28px #a2b0b4,
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 100px;
+    border-radius: 19px;
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffff41, #e6d737);
+    box-shadow:  5px 5px 10px #666018,
+                 -5px -5px 10px #ffff62;
+    
     
 }
 .all_tittles {
